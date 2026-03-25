@@ -2,8 +2,6 @@
 title: Parallel Quadric Error Simplification
 ---
 
-# Parallel Quadric Error Simplification
-
 
 **Eugene Lee** (eugenel), **Hyojae Park** (hyojaep)
 
@@ -23,12 +21,14 @@ tradeoffs with mesh quality.
 
 ## Proposal
 
-[Read the proposal](./proposal.pdf)
+<iframe src="./proposal.pdf" width="100%" height="800px">
+</iframe>
+[direct link](./proposal.pdf)
 
 ## Milestone
 
-[Read the milestone report](./milestone.pdf)
+TO ADD
 
 ## Final Report
 
-[Read the final report](./final_report.pdf)
+TO ADD
