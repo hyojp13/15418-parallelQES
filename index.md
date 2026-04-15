@@ -27,7 +27,7 @@ tradeoffs with mesh quality.
 
 ## Milestone
 
-TO ADD
+<iframe src="./milestone.pdf" width="100%" height="800px"> </iframe> [direct link](./milestone.pdf)
 
 ## Final Report
 
