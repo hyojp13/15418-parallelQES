@@ -31,4 +31,4 @@ tradeoffs with mesh quality.
 
 ## Final Report
 
-TO ADD
+<iframe src="./final.pdf" width="100%" height="800px"> </iframe> [direct link](./final.pdf)
